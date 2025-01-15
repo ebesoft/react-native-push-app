@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "07-push-app",
-    "slug": "07-push-app",
+    "slug": "push-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2969cc25-056a-484b-abfb-92d2959ac317"
+      }
+    },
+    "owner": "ermack"
   }
 }
