@@ -39,3 +39,7 @@ app-example
 
 expo-pushnotifications-app-firebase-adminsdk-ma3tt-e146d6d634.json
 google-services.json
+
+#Carpetas prebuild
+android/
+ios/
